@@ -1,0 +1,32 @@
+h1 {
+    background-color: rgba(255, 128, 0, 0.7);
+    margin: -10px;
+    padding: 20px;
+    text-align: center;
+    font-family: Secular One;
+    font-size: 50px;
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+h3 {
+    font-family: Secular One;
+    color: f000;
+}
+
+nav {
+    background-color: rgba(255, 182, 108, 0.7);
+    text-align: center;
+    margin: -10px;
+    padding: 1px;
+    position: relative;
+    top: 10px;
+}
+
+p {
+    font-size: 14px;
+    font-family: styles;
+    color: gray;
+}
