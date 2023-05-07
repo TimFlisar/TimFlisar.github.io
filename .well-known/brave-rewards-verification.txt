@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: timflisar.github.io
-Token: 2c00777d4532c4aa23af21acb08ef8e84967a9e9ed3ee32caae32f8417f4b5ba
+Domain: cekluka.com
+Token: 7a36f28fe8511514dc4653521978163aa63e03a51f83ee9395d53960aab01db8
