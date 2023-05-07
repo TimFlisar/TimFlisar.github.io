@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cekluka.com
+Token: 7a36f28fe8511514dc4653521978163aa63e03a51f83ee9395d53960aab01db8
