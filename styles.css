@@ -33,7 +33,10 @@ p {
     font-family: styles;
     color: gray;
     width:70%
-    margin-left:3%;
+}
+
+.besedilo {
+    margin-left: 3%;
 }
 
 #skica {
