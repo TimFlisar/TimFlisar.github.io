@@ -33,8 +33,9 @@ p {
     font-family: styles;
     color: gray;
     width:70%
+    margin-left:3%;
 }
 
 #skica {
-    width : 70%;
+    width : 65%;
 }
