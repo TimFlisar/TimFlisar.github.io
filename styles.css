@@ -40,6 +40,11 @@ p {
     width:70%
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .besedilo {
     margin-left: 3%;
 }
