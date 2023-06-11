@@ -1,5 +1,5 @@
 h1 {
-    background-color: rgba(255, 128, 0, 0.7);
+    background: linear-gradient(90dag, rgba(255, 128, 0, 0.7), rgba(255, 128, 0, 0.8));
     margin: -10px;
     padding: 20px;
     text-align: center;
