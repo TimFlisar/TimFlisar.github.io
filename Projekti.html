@@ -14,10 +14,20 @@
     </nav>
     <h2>Vhodna luč</h2>
     <a href="Projekti/Vhodna-luč.html">Vhodna luč</a>
+    <br>
     
     <!--vprašalnik za ideje-->
     <form action="/ideje">
-        <input type="text" placeholder="Ideje za projekte" required>
+        <div>
+            <label for="email">email:</label>
+            <input for="email" type="text" placeholder="primer@gmail.com">
+        </div>
+
+        <div>
+            <label for="Ideja">Ideje za projekte:</label>
+            <input for="Ideja" type="text" placeholder="ideja" required>
+        </div>
+
         <button type="submit">Pošli idejo</button>
     </form>
 </body>
