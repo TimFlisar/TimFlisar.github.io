@@ -1,0 +1,16 @@
+.Žogica{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    align-self: center;
+    margin-left: 50%;
+    margin-top: 50%;
+}
+.Žogiva::before{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
