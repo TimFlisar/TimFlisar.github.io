@@ -92,3 +92,14 @@ a:hover {
     bottom: 25px;
     border-radius: 50%;
 }
+
+.besedilo{
+    animation-name: prihod;
+    animation-duration: 2s;
+}
+@keyframes prihod{
+    0%{
+        margin-top: 150%;
+        opacity: 0.1;
+    }
+}
