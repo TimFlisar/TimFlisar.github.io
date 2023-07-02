@@ -55,12 +55,9 @@ a:hover {
     transform: scale(1.1);
 }
 
-.besedilo {
-    margin-left: 3%;
-}
-
 .skica {
-    width: 65%;
+    max-width: 100%;
+    width: 1000px;
 }
 
 .srce {
@@ -94,6 +91,7 @@ a:hover {
 }
 
 .besedilo{
+    margin-left: 3%;
     animation-name: prihod;
     animation-duration: 2s;
 }
